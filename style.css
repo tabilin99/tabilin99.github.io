@@ -24,6 +24,10 @@ h1 {color:#d87093;
 
 }
 
+.list {
+    text-align: left;
+}
+
 .updates {
     border: 2px dashed #BB96EA;
     background-color: #FCE9CA;
@@ -44,4 +48,4 @@ h1 {color:#d87093;
     text-align: center;
 }
 
-
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/others/oth-8/oth711.cur), auto !important;} /* End https://www.cursors-4u.com */
